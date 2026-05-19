@@ -1,0 +1,9 @@
+services:
+  react-app:
+    build:
+      context: .
+      dockerfile: web/Dockerfile
+    container_name: react-container
+    ports:
+      - "8081:80"
+    restart: always
