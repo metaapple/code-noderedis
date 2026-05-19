@@ -1,0 +1,5 @@
+total 0
+drwxrwxrwx 1 ezen-teacher ezen-teacher 4096 May 18 11:42 .
+drwxrwxrwx 1 ezen-teacher ezen-teacher 4096 May 18 11:39 ..
+drwxrwxrwx 1 ezen-teacher ezen-teacher 4096 May 18 11:39 apple
+-rwxrwxrwx 1 ezen-teacher ezen-teacher    0 May 18 11:42 out1.txt
